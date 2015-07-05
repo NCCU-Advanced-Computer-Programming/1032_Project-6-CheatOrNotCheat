@@ -1,0 +1,29 @@
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\MainWindow.baml
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\MainWindow.g.cs
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\App.g.cs
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project_MarkupCompile.cache
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.g.resources
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+c:\users\chia-hsieng lee\documents\visual studio 2013\Projects\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\MainWindow.baml
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Window1.baml
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\MainWindow.g.cs
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Window1.g.cs
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\App.g.cs
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project_MarkupCompile.cache
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.g.resources
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\huang tsun yu\Desktop\Final_Project\Final_Project\Final_Project\obj\Debug\Final_Project.Form1.resources
